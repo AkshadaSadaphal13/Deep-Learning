@@ -1,0 +1,14 @@
+# BERT training checkpoints
+results/checkpoint-*/
+
+# Model files
+*.safetensors
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
