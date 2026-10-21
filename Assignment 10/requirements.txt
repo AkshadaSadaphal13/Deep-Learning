@@ -1,0 +1,12 @@
+tensorflow
+tensorflow-datasets
+librosa
+scikit-learn
+matplotlib
+seaborn
+pandas
+SpeechRecognition
+pyttsx3
+soundfile
+jupyter
+ipykernel
